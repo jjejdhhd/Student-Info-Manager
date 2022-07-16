@@ -22,7 +22,7 @@
 </div>
 
 文件说明：
-> stusystem.py为Python源代码。
-> stusystem.exe是可执行文件，即使没有安装python解释器也可以直接在一台计算机上运行。
+> **stusystem.py** 为Python源代码。
+> **stusystem.exe** 是可执行文件，即使没有安装python解释器也可以直接在一台计算机上运行。
 > 
 > 注：运行程序后建议首先选择第一个功能录入一些信息。
